@@ -1,4 +1,4 @@
-Live Preview Link --> https://mqcnxj.csb.app/
+**Live Preview Link --> https://mqcnxj.csb.app/**
 
 **Description:**
 Welcome to the Travel List app built with React! This repository serves as a platform for learning React while creating a useful application for travel enthusiasts. The Travel List app is designed to help users organize their travel essentials and track their packing progress effortlessly.
